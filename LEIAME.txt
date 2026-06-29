@@ -1,0 +1,29 @@
+LEIAME
+
+Nome do grupo: (coloque o nome do grupo)
+
+Integrantes:
+
+- Eduarda Rabatini Souza Martins 
+- Maria Eduarda Santos Mascarenhas
+- Laura Primo Cruz
+- Isabelly Oliveira da Silva
+
+Tema:
+Emergência Climática e Ações Locais
+
+Como abrir o site:
+
+1. Extraia todos os arquivos mantendo a estrutura das pastas.
+2. Abra o arquivo index.html em um navegador de internet.
+3. Utilize o menu de navegação para acessar as demais páginas do site.
+
+Divisão das responsabilidades:
+
+Eduarda Rabatini Souza Martins: Responsável pela criação do arquivo estilo.css, desenvolvimento das páginas midia.html, contato.html e extra.html, criação do logotipo e do favicon, organização da estrutura do site e ajustes finais.
+
+Maria Eduarda Santos Mascarenhas: Responsável pelo desenvolvimento das páginas tema.html e sobre.html, organizando o conteúdo e a estrutura dessas páginas.
+
+Laura Primo Cruz: Responsável pela pesquisa sobre o tema, elaboração do conteúdo e desenvolvimento da página inicial (index.html).
+
+Isabelly Oliveira da Silva: Responsável pela definição da identidade visual do projeto, incluindo a escolha da paleta de cores utilizada no site.
