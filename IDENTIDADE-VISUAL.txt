@@ -8,37 +8,65 @@ Emergência Climática e Ações Locais
 
 PALETA DE CORES
 
-A paleta de cores do site foi desenvolvida utilizando uma harmonização baseada em cores análogas, com predominância de tons de verde e azul, complementadas pela cor amarela como destaque. Essa combinação foi escolhida por transmitir equilíbrio, natureza, confiança e conscientização ambiental, estando diretamente relacionada ao tema "Emergência Climática e Ações Locais". As cores utilizadas foram: verde escuro (#2E7D32), verde claro (#81C784), azul (#1976D2), amarelo (#FBC02D) e branco (#FFFFFF). O verde representa a natureza, a preservação ambiental e a sustentabilidade; o azul simboliza a água, o céu e o planeta; o amarelo reforça a ideia de alerta e chama a atenção para informações importantes; e o branco proporciona um fundo limpo, favorecendo a organização do conteúdo. A paleta busca despertar no usuário sentimentos de esperança, responsabilidade, confiança e incentivo à preservação do meio ambiente. Além disso, para garantir a acessibilidade, utilizamos principalmente texto em verde escuro (#2E7D32) ou preto sobre fundo branco (#FFFFFF), garantindo contraste adequado para leitura, atendendo às recomendações da WCAG, com razão mínima de contraste de 4,5:1.
+A paleta de cores do site foi desenvolvida utilizando uma harmonização baseada em cores
+análogas, com predominância de tons de verde e azul, complementadas pela cor amarela como
+destaque. Essa combinação foi escolhida por transmitir equilíbrio, natureza, confiança e
+conscientização ambiental, estando diretamente relacionada ao tema "Emergência Climática e
+Ações Locais". As cores utilizadas foram: verde escuro (#2E7D32), verde claro (#81C784), azul
+(#1976D2), amarelo (#FBC02D) e branco (#FFFFFF). O verde representa a natureza, a preservação
+ambiental e a sustentabilidade; o azul simboliza a água, o céu e o planeta; o amarelo reforça
+a ideia de alerta e chama a atenção para informações importantes; e o branco proporciona um
+fundo limpo, favorecendo a organização do conteúdo. A paleta busca despertar no usuário
+sentimentos de esperança, responsabilidade, confiança e incentivo à preservação do meio
+ambiente. Além disso, para garantir a acessibilidade, utilizamos principalmente texto
+em verde escuro (#2E7D32) ou preto sobre fundo branco (#FFFFFF), garantindo contraste adequado
+para leitura, atendendo às recomendações da WCAG, com razão mínima de contraste de 4,5:1.
 
 Verde escuro (#2E7D32)
-É a cor principal do site. Representa as florestas, a preservação ambiental, a sustentabilidade e a responsabilidade com o meio ambiente. Foi utilizada em títulos e elementos de maior destaque.
+É a cor principal do site. Representa as florestas, a preservação ambiental, a
+sustentabilidade e a responsabilidade com o meio ambiente. Foi utilizada em títulos e
+elementos de maior destaque.
 
 Verde claro (#81C784)
-Representa renovação, esperança e ações sustentáveis, como o reflorestamento e a preservação da biodiversidade.
+Representa renovação, esperança e ações sustentáveis, como o reflorestamento e a preservação
+da biodiversidade.
 
 Azul (#1976D2)
-Representa a água, os oceanos, o céu e o planeta Terra. Também transmite confiança e está relacionado aos temas de enchentes, secas, mudanças climáticas e preservação dos recursos hídricos.
+Representa a água, os oceanos, o céu e o planeta Terra. Também transmite confiança e está
+relacionado aos temas de enchentes, secas, mudanças climáticas e preservação dos recursos
+hídricos.
 
 Amarelo (#FBC02D)
-Foi utilizado para destacar informações importantes e transmitir a ideia de alerta, energia e atenção, reforçando o conceito de emergência climática.
+Foi utilizado para destacar informações importantes e transmitir a ideia de alerta, energia e
+atenção, reforçando o conceito de emergência climática.
 
 Branco (#FFFFFF)
-Utilizado como cor de fundo para proporcionar melhor contraste, facilitar a leitura e deixar o site mais organizado e agradável visualmente.
+Utilizado como cor de fundo para proporcionar melhor contraste, facilitar a leitura e deixar
+o site mais organizado e agradável visualmente.
 
 TIPOGRAFIA
 
-A escolha da fonte Montserrat foi feita por apresentar um visual moderno, limpo e de fácil leitura. Sua boa legibilidade em diferentes tamanhos de tela contribui para uma navegação mais agradável e melhora a experiência do usuário.
+A escolha da fonte Montserrat foi feita por apresentar um visual moderno, limpo e de fácil 
+leitura. Sua boa legibilidade em diferentes tamanhos de tela contribui para uma navegação 
+mais agradável e melhora a experiência do usuário.
 
 LOGOTIPO
 
-O logotipo da organização fictícia "Clima Vivo" foi desenvolvido utilizando um símbolo que representa a união entre pessoas e a natureza, reforçando a ideia de colaboração na preservação do meio ambiente.
+O logotipo da organização fictícia "Clima Vivo" foi desenvolvido utilizando um símbolo que 
+representa a união entre pessoas e a natureza, reforçando a ideia de colaboração na 
+preservação do meio ambiente.
 
-A cor dourada utilizada no logotipo transmite destaque, esperança e valorização das ações ambientais. O nome "Clima Vivo" reforça a mensagem de que o planeta depende da participação de todos para continuar saudável.
+A cor dourada utilizada no logotipo transmite destaque, esperança e valorização das ações 
+ambientais. O nome "Clima Vivo" reforça a mensagem de que o planeta depende da participação 
+de todos para continuar saudável.
 
 FAVICON
 
-O favicon é o mesmo símbolo utilizado no logotipo, mantendo a identidade visual do site e facilitando o reconhecimento da organização na aba do navegador.
+O favicon é o mesmo símbolo utilizado no logotipo, mantendo a identidade visual do site e 
+facilitando o reconhecimento da organização na aba do navegador.
 
 CONCLUSÃO
 
-Toda a identidade visual foi planejada para transmitir conscientização ambiental, sustentabilidade, confiança e esperança, criando uma aparência agradável e coerente com o tema "Emergência Climática e Ações Locais".
+Toda a identidade visual foi planejada para transmitir conscientização ambiental,
+sustentabilidade, confiança e esperança, criando uma aparência agradável e coerente com o 
+tema "Emergência Climática e Ações Locais".
